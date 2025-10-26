@@ -1,2 +1,5 @@
-My name is Ed Donner. I'm an entrepreneur, software engineer and data scientist. I'm originally from London, England, but I moved to NYC in 2000.
-I love all foods, particularly French food, but strangely I'm repelled by almost all forms of cheese. I'm not allergic, I just hate the taste! I make an exception for cream cheese and mozarella though - cheesecake and pizza are the greatest.
+I’m Mehedi Hasan Hridoy, a passionate Computer Science student from Dhaka, Bangladesh. Technology isn’t just something I study — it’s the core of who I am. I live by the words “life with code and live by code.”
+
+I’m deeply curious about how things work — from algorithms and AI to DevOps and web development. Every day, I push myself to learn, create, and improve so I can think and work like a world-class engineer. My ultimate goal is to use technology to solve real-world problems and make a global impact.
+
+For me, coding isn’t just a skill — it’s a way to shape ideas into reality and bring change to the world, one line of code at a time.
